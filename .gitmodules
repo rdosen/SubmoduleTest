@@ -1,0 +1,6 @@
+[submodule "sharpsnmplib"]
+	path = sharpsnmplib
+	url = https://github.com/lextudio/sharpsnmplib
+[submodule "SnmpSharpNet"]
+	path = SnmpSharpNet
+	url = https://github.com/rqx110/SnmpSharpNet
